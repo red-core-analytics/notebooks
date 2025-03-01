@@ -3,3 +3,12 @@ This one contains some Jupyter notebooks. This repo is public because I might wa
 
 ## Reasons
 This is because Visual Studio Code is the perfect place for data science now because over there, I get to access .csv files with great ease. These files were made for Microsoft and Visual Studio Code was made by Microsoft. By Microsoft and for Microsoft. I have found the signature colors for data science over there. Some bluish purple with a light theme. Anyways, enough about that. Let's get started.
+
+## Differences
+This repo is fundamentally different from my core analytics notebooks. These are the differences.
+<ol>
+  <li>These notebooks are completely in light theme on GitHub. On Visual Studio Code, they are dark.</li>
+  <li>The markdowns contain explanations, formal, boring explanations. The real ones are more of gossip.</li>
+  <li>The plots here are made through seaborn. The real ones are made of core matplotlib with signature colors.</li>
+  <li>A similarity might be the fact that comments exist in the real ones too. Comments aren't preferred on these.</li>
+</ol>
